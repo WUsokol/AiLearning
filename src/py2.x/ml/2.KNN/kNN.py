@@ -16,7 +16,7 @@ from collections import Counter
 
 def createDataSet():
     """
-    创建数据集和标签
+    创建数据集和标签1
 
      调用方式
      import kNN
